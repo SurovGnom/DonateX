@@ -1,0 +1,35 @@
+.nav__header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.nav__logo{
+    font-family: 'Nexa';
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    color: #252525;
+}
+.nav__bar{
+    display: flex;
+    gap: 49px;
+}
+.nav__name{
+    font-family: 'Now Regular';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #303030;
+}
+.nav__btn{
+    font-family: 'Now Regular';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    background-color: #FF5D24;
+    border-radius: 5px;
+    padding: 13px 20px;
+    border: none;
+}

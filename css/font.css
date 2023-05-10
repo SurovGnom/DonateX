@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Nexa', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://fonts.cdnfonts.com/css/nexa-bold');
+
+}
+                                                
+
+@font-face {
+    font-family: 'Now';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Now Regular'), url('Now-Regular.woff') format('woff');
+    }
+    
+@font-face {
+    font-family: 'Now';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Now Medium'), url('Now-Medium.woff') format('woff');
+    }
+    

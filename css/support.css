@@ -1,0 +1,20 @@
+.support{
+    margin-bottom: 180px;
+}
+.support__row{
+    display: flex;
+    align-items: center;
+    gap: 141px;
+}
+.support__about--block{
+    width: 75%;
+}
+.support__reverse{
+    margin-bottom: 180px;
+}
+.sup__row{
+    display: flex;
+    align-items: center;
+    gap: 141px;
+    flex-direction: row-reverse;
+}

@@ -1,0 +1,55 @@
+.main__about{
+    font-family: 'Now';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;  
+    background-color: #EFEFEF;
+    color: #FF5D24;
+    padding: 8px 20px;
+    border: none;
+    margin-bottom: 39px;
+}
+.main__header--donate{
+    font-family: 'Nexa', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    color: #252525;
+    width: 36%;
+    text-align: center;
+}
+.main__header{
+    font-family: 'Nexa', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    color: #252525;
+}
+.main__desc{
+    font-family: 'Now';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #252525;
+    margin-top: 33px;
+}
+.main__learn{
+    font-family: 'Now';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    background-color: #F4643F;
+    padding: 14px 30px;
+    border: none;
+    margin-top: 46px;
+}
+.main__img{
+    position: relative;
+}
+.main__rect{
+    position: absolute;
+    bottom: -2em;
+    left: -7%;
+    z-index: -1;
+}
